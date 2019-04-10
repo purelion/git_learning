@@ -11,4 +11,4 @@ hello world 世界你好
 window git commit
 
 
-we are going study git commands
+we are going study git commands and so on!
